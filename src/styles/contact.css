@@ -1,0 +1,52 @@
+#backgroundBox {
+  position: relative;
+  /* height: 100vh; */
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+}
+
+#addressDiv {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: 60%;
+}
+
+#addressHeading {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+#address {
+  font-size: 1rem;
+  color: #555;
+}
+
+#phoneDiv {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: 60%;
+}
+
+#phoneHeading {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+#phone {
+  font-size: 1rem;
+  color: #555;
+}
